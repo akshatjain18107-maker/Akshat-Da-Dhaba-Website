@@ -7,6 +7,6 @@ Welcome to the official website repository for **Akshat da dhaba**! This project
 * **Attractive UI:** A vibrant and welcoming design for food lovers.
 * **Responsive Layout:** Looks great on both desktop and mobile screens.
 
-## 🛠️ Tech Stack
+## Tech Stack
 * HTML5
 * CSS3
